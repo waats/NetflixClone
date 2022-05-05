@@ -1,0 +1,8 @@
+.box {
+    display: flex;
+    background: rgba(200, 107, 157, 0.919);
+    font-family: sans-serif;
+    flex-direction: column;
+    flex-flow: wrap;
+
+}
